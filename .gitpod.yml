@@ -1,0 +1,11 @@
+image:
+  file: .gitpod.dockerfile
+
+tasks:
+  - command: redis-server
+  
+vscode:
+  extensions:
+    - dsznajder.es7-react-js-snippets
+    - esbenp.prettier-vscode
+    - humao.rest-client
