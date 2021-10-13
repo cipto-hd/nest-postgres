@@ -1,8 +1,5 @@
 image:
   file: .gitpod.dockerfile
-
-tasks:
-  - command: redis-server
   
 vscode:
   extensions:
